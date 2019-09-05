@@ -25,7 +25,6 @@ const Head = ({ metadata }) => (
     <title itemProp="name" lang="en">
       {metadata.title}
     </title>
-    <link rel="shortcut icon" href={favicon} />
     <meta name="description" content={metadata.description} />
     <meta name="keywords" content={config.siteKeywords} />
     <meta name="google-site-verification" content={config.googleVerification} />
