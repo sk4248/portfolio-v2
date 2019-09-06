@@ -1,13 +1,14 @@
 ---
 date: '2017-08-01'
-title: 'Interventions'
+title: 'Cricket world cup 2011'
 image: ''
-github: ''
-external: 'https://interventions.design/'
+github: '‘https://github.com/sk4248/Form-Elements'
+external: ''
 tech:
-  - Jekyll
-  - Github Pages
+  - JavaScript
+  - HTML
+  - CSS
 show: 'true'
 ---
 
-Interactive marketing website for Northeastern's first annual student-led design conference, Interventions.
+A simple web application developed in plain javascript that allows users to find the information of players in 2011 cricket World Cup through each stage of the league.

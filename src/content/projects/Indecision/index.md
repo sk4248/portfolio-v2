@@ -1,16 +1,14 @@
 ---
-date: '2018-05-01'
-title: 'blistabloc'
+date: '2018-09-01'
+title: 'Indecision'
 image: ''
-github: ''
-external: 'https://blistabloc.com/'
+github: ' https://github.com/sk4248/Indecision'
+external: ''
 tech:
-  - Wordpress
-  - Timber
-  - WooCommerce
+  - React
   - SCSS
-  - JS
+  - Webpack
 show: 'true'
 ---
 
-Custom Wordpress theme and e-commerce site built with Timber and WooCommerce for blistabloc, a start-up selling the only reactive shoe insert that prevents blisters from forming.
+ A web application built with React and SCSS for writing down different tasks and get recommendations of tasks to finish in an order.

@@ -1,8 +1,8 @@
 ---
-date: '2016-04-01'
+date: '2019-05-01'
 title: 'Collaborative song writing'
 image: ''
-github: ''
+github: 'https://github.com/sk4248/lyrical-graphql'
 external: ''
 tech:
   - React

@@ -72,7 +72,7 @@ const Footer = () => (
     </SocialContainer>
     <Copy>
       <GithubLink
-        href="https://github.com/sk4248/personal"
+        href="https://github.com/sk4248/full"
         target="_blank"
         rel="nofollow noopener noreferrer">
         <div>Created by Sreekanth Korampally, @ 2019</div>
