@@ -2,7 +2,7 @@
 date: '2018-08-01'
 title: 'Expensify'
 image: ''
-github: ''
+github: 'https://github.com/sk4248/Expensify'
 external: ''
 tech:
   - React.js

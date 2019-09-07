@@ -2,7 +2,7 @@
 date: '2019-07-29'
 title: 'Chat Application'
 cover: ''
-github: ''
+github: 'https://github.com/sk4248/chat-app'
 external: ''
 tech:
   - Express
