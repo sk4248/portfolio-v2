@@ -1,15 +1,15 @@
 ---
-date: '2019-03-01'
-title: 'Portfolio'
+date: '2018-01-01'
+title: 'Weather app'
 cover: ''
-github: 'https://github.com/sk4248/portfolio-gatsby'
-external: ''
+github: 'https://github.com/sk4248/weather-app'
+external: 'https://korampally-weather-app.herokuapp.com/'
 tech:
-  - gatsby
-  - Contentful
-  - Netlify
-  - React
+  - Node.js
+  - Heroku
+  - darksky.net
+  - mapbox
 show: 'true'
 ---
 
- My personal portfolio without using much styling to learn the fundamentals of gatbsy. Data is supplied from contentful and website is hosted on netlify.
+ A simple weather app created using mapbox's geocoding and darksky.net to find the weather forecast of your favorite places!
