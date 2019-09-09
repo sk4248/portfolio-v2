@@ -1,9 +1,9 @@
 ---
 date: '2019-07-29'
-title: 'Chat Application'
+title: 'Live Chat Application'
 cover: ''
 github: 'https://github.com/sk4248/chat-app'
-external: ''
+external: 'https://korampally-lets-talk.herokuapp.com/'
 tech:
   - Express
   - Websockets
