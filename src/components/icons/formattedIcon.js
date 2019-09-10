@@ -4,6 +4,7 @@ import {
   IconGithub,
   IconLinkedin,
   IconInstagram,
+  IconTwitter,
 } from '@components/icons';
 
 const FormattedIcon = ({ name }) => {
@@ -14,6 +15,8 @@ const FormattedIcon = ({ name }) => {
       return <IconLinkedin />;
     case 'Instagram':
       return <IconInstagram />;
+    case 'Twitter':
+      return <IconTwitter />;
     default:
       return <IconGithub />;
   }
