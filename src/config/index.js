@@ -20,6 +20,10 @@ module.exports = {
       url: 'https://www.linkedin.com/in/sreekanth-korampally-50092286/',
     },
     {
+      name: 'Twitter',
+      url: 'https://twitter.com/kanth3474',
+    },
+    {
       name: 'Instagram',
       url: 'https://www.instagram.com/kanth_07/',
     },
