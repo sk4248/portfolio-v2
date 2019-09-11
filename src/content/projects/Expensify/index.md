@@ -11,4 +11,4 @@ tech:
 show: 'true'
 ---
 
-An application to keep track of daily expense and helps in planning a budget. Databse and authorization is managed by firebase.
+An application to keep track of regular expenses and plan the budget. Databse and authorization is managed by firebase.
