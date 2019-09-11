@@ -1,9 +1,9 @@
 ---
-date: '2018-08-01'
-title: 'Expensify'
+date: '2019-07-01'
+title: 'Expense management'
 image: ''
-github: 'https://github.com/sk4248/Expensify'
-external: ''
+github: 'https://github.com/sk4248/expenses'
+external: 'https://korampally-expense-manage.herokuapp.com/'
 tech:
   - React.js
   - Node.js
@@ -11,4 +11,4 @@ tech:
 show: 'true'
 ---
 
-Expenses application to keep track of daily expenses and savings
+An application to keep track of daily expense and helps in planning a budget. Databse and authorization is managed by firebase.

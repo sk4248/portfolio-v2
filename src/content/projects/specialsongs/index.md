@@ -1,6 +1,6 @@
 ---
 date: '2019-05-01'
-title: 'Collaborative song writing'
+title: 'Lyrical GraphQL'
 image: ''
 github: 'https://github.com/sk4248/lyrical-graphql'
 external: ''
