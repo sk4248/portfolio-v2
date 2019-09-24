@@ -1,5 +1,5 @@
 ---
-date: '2017-09-01'
+date: '2019-03-01'
 title: 'RIT IST website'
 image: ''
 github: 'https://github.com/sk4248/ist-website'
