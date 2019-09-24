@@ -3,7 +3,7 @@ date: '2019-05-01'
 title: 'Lyrical GraphQL'
 image: ''
 github: 'https://github.com/sk4248/lyrical-graphql'
-external: ''
+external: 'https://korampally-lyrics.herokuapp.com/'
 tech:
   - React
   - GraphQL
